@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+$primary-color-black: #212121;
+$primary-color-white: #fff;
+$primary-color-green: #00a000;
+$primary-color-lightgreen: #7eca0f;
+$secondary-color-blue: #007dff;
+$secondary-color-purple: #8f00d5;
+$secondary-color-pink: #e74b80;
+
+$G-font-family-base : roboto, NanumGothic, '나눔고딕', '맑은고딕', MalgunGothic, '돋움', dotum, Helvetica,'Apple SD Gothic Neo', applegothic, sans-serif;
+$G-font-family-size : 14px;
+$GNB-font-family-size : 14px;
+$Footer-font-family-size : 12px;
+
+$G-path: '../';
+$G-path-img: $G-path + 'img/';
+
+// Loading Circle indicator
+$spinner-default-color: #dbdbdb;
+$spinner-default-stroke-width: 5px;

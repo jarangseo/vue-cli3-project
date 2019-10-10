@@ -1,0 +1,33 @@
+/* NanumGothic font */
+@font-face {
+  font-family: 'NanumGothic';
+  src: url("~@/assets/font/NanumGothic/NanumGothic-Regular.eot");
+  src: url("~@/assets/font/NanumGothic/NanumGothic-Regular.eot?#iefix") format("embedded-opentype"), url("~@/assets/font/NanumGothic/NanumGothic-Regular.woff2") format("woff2"), url("~@/assets/font/NanumGothic/NanumGothic-Regular.woff") format("woff"), url("~@/assets/font/NanumGothic/NanumGothic-Regular.ttf") format("truetype"); }
+
+@font-face {
+  font-family: 'NanumGothicBold';
+  src: url("~@/assets/font/NanumGothic/NanumGothic-Bold.eot");
+  src: url("~@/assets/font/NanumGothic/NanumGothic-Bold.eot?#iefix") format("embedded-opentype"), url("~@/assets/font/NanumGothic/NanumGothic-Bold.woff2") format("woff2"), url("~@/assets/font/NanumGothic/NanumGothic-Bold.woff") format("woff"), url("~@/assets/font/NanumGothic/NanumGothic-Bold.ttf") format("truetype"); }
+
+/*  roboto font */
+@font-face {
+  font-family: 'roboto';
+  src: url(~@/assets/font/roboto/Roboto-Regular.eot);
+  src: url(~@/assets/font/roboto/Roboto-Regular.eot?#iefix) format("embedded-opentype"), url(~@/assets/font/roboto/Roboto-Regular.woff) format("woff"), url(~@/assets/font/roboto/Roboto-Regular.ttf) format("truetype"); }
+
+@font-face {
+  font-family: 'robotoMedium';
+  src: url(~@/assets/font/roboto/Roboto-Medium.eot);
+  src: url(~@/assets/font/roboto/Roboto-Medium.eot?#iefix) format("embedded-opentype"), url(~@/assets/font/roboto/Roboto-Medium.woff) format("woff"), url(~@/assets/font/roboto/Roboto-Medium.ttf) format("truetype"); }
+
+@font-face {
+  font-family: 'robotoLight';
+  src: url(~@/assets/font/roboto/Roboto-Light.eot);
+  src: url(~@/assets/font/roboto/Roboto-Light.eot?#iefix) format("embedded-opentype"), url(~@/assets/font/roboto/Roboto-Light.woff) format("woff"), url(~@/assets/font/roboto/Roboto-Light.ttf) format("truetype"); }
+
+@font-face {
+  font-family: 'robotoBold';
+  src: url(~@/assets/font/roboto/Roboto-Bold.eot);
+  src: url(~@/assets/font/roboto/Roboto-Bold.eot?#iefix) format("embedded-opentype"), url(~@/assets/font/roboto/Roboto-Bold.woff) format("woff"), url(~@/assets/font/roboto/Roboto-Bold.ttf) format("truetype"); }
+
+/*# sourceMappingURL=maps/web_font.css.map */

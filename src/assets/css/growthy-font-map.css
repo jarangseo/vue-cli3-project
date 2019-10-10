@@ -1,0 +1,325 @@
+@font-face {
+  font-family: "growthy-map-icons";
+  src: url("~@/assets/font/Growthy_font/growthy-map-icons.eot");
+  src: url("~@/assets/font/Growthy_font/growthy-map-icons.eot#iefix") format("eot"), url("~@/assets/font/Growthy_font/growthy-map-icons.woff2") format("woff2"), url("~@/assets/font/Growthy_font/growthy-map-icons.woff") format("woff"), url("~@/assets/font/Growthy_font/growthy-map-icons.ttf") format("truetype"), url("~@/assets/font/Growthy_font/growthy-map-icons.svg#growthy-map-icons") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+
+.fn-map {
+  display: inline-block;
+  height: 1em;
+  line-height: 1em; }
+
+.fn-map:before {
+  font-family: "growthy-map-icons";
+  font-style: normal;
+  font-weight: normal;
+  speak: none;
+  display: inline-block;
+  text-decoration: inherit;
+  width: 1em;
+  text-align: center;
+  /* For safety - reset parent styles, that can break glyph codes*/
+  font-variant: normal;
+  text-transform: none;
+  /* fix buttons height, for twitter bootstrap */
+  line-height: 1em;
+  /* Font smoothing. That was taken from TWBS */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; }
+
+.fn-map.fn-16 {
+  font-size: 16px; }
+
+.fn-map.fn-18 {
+  font-size: 18px; }
+
+.fn-map.fn-24 {
+  font-size: 24px; }
+
+.fn-map.fn-36 {
+  font-size: 36px; }
+
+.fn-map.fn-48 {
+  font-size: 48px; }
+
+.fn-map-002-announcement:before {
+  content: "\E001"; }
+
+.fn-map-003-arrow_back:before {
+  content: "\E002"; }
+
+.fn-map-004-arrow_circle_drop_down:before {
+  content: "\E003"; }
+
+.fn-map-005-arrow_circle_drop_right:before {
+  content: "\E004"; }
+
+.fn-map-006-arrow_drop_down:before {
+  content: "\E005"; }
+
+.fn-map-007-arrow_drop_up:before {
+  content: "\E006"; }
+
+.fn-map-008-camera_alt:before {
+  content: "\E007"; }
+
+.fn-map-009-chech_box_outline_blaank:before {
+  content: "\E008"; }
+
+.fn-map-010-check_box:before {
+  content: "\E009"; }
+
+.fn-map-011-chevron_down:before {
+  content: "\E00A"; }
+
+.fn-map-012-chevron_left:before {
+  content: "\E00B"; }
+
+.fn-map-013-chevron_right:before {
+  content: "\E00C"; }
+
+.fn-map-014-close:before {
+  content: "\E00D"; }
+
+.fn-map-015-code:before {
+  content: "\E00E"; }
+
+.fn-map-016-column:before {
+  content: "\E00F"; }
+
+.fn-map-017-control_point:before {
+  content: "\E010"; }
+
+.fn-map-018-date_range:before {
+  content: "\E011"; }
+
+.fn-map-019-delete_list:before {
+  content: "\E012"; }
+
+.fn-map-020-deploy:before {
+  content: "\E013"; }
+
+.fn-map-021-done:before {
+  content: "\E014"; }
+
+.fn-map-022-double_chevron_left:before {
+  content: "\E015"; }
+
+.fn-map-023-double_chevron_right:before {
+  content: "\E016"; }
+
+.fn-map-024-:before {
+  content: "\E017"; }
+
+.fn-map-025-file_download:before {
+  content: "\E018"; }
+
+.fn-map-026-file_excel:before {
+  content: "\E019"; }
+
+.fn-map-027-first_page:before {
+  content: "\E01A"; }
+
+.fn-map-028-flight:before {
+  content: "\E01B"; }
+
+.fn-map-029-group:before {
+  content: "\E01C"; }
+
+.fn-map-030-help:before {
+  content: "\E01D"; }
+
+.fn-map-031-history:before {
+  content: "\E01E"; }
+
+.fn-map-032-info_outline:before {
+  content: "\E01F"; }
+
+.fn-map-033-info:before {
+  content: "\E020"; }
+
+.fn-map-034-last_page:before {
+  content: "\E021"; }
+
+.fn-map-035-library_books:before {
+  content: "\E022"; }
+
+.fn-map-036-link:before {
+  content: "\E023"; }
+
+.fn-map-037-local_library:before {
+  content: "\E024"; }
+
+.fn-map-038-lock:before {
+  content: "\E025"; }
+
+.fn-map-039-menuediting:before {
+  content: "\E026"; }
+
+.fn-map-040-mode_edit:before {
+  content: "\E027"; }
+
+.fn-map-041-more_vert:before {
+  content: "\E028"; }
+
+.fn-map-042-open_in_new:before {
+  content: "\E029"; }
+
+.fn-map-043-query_builder:before {
+  content: "\E02A"; }
+
+.fn-map-044-radio_button_checked:before {
+  content: "\E02B"; }
+
+.fn-map-045-radio_button_unchecked:before {
+  content: "\E02C"; }
+
+.fn-map-046-reference_event:before {
+  content: "\E02D"; }
+
+.fn-map-047-:before {
+  content: "\E02E"; }
+
+.fn-map-048-reference:before {
+  content: "\E02F"; }
+
+.fn-map-049-refresh:before {
+  content: "\E030"; }
+
+.fn-map-050-round_cancel:before {
+  content: "\E031"; }
+
+.fn-map-051-round_outline_cancel:before {
+  content: "\E032"; }
+
+.fn-map-052-round_outline_check:before {
+  content: "\E033"; }
+
+.fn-map-053-save:before {
+  content: "\E034"; }
+
+.fn-map-054-search:before {
+  content: "\E035"; }
+
+.fn-map-055-settings:before {
+  content: "\E036"; }
+
+.fn-map-056-shopping_cart:before {
+  content: "\E037"; }
+
+.fn-map-057-trending_up:before {
+  content: "\E038"; }
+
+.fn-map-058-undeploy:before {
+  content: "\E039"; }
+
+.fn-map-059-videogame_asset:before {
+  content: "\E03A"; }
+
+.fn-map-060-add:before {
+  content: "\E03B"; }
+
+.fn-map-061-arrow_forward:before {
+  content: "\E03C"; }
+
+.fn-map-062-delete:before {
+  content: "\E03D"; }
+
+.fn-map-063-filter:before {
+  content: "\E03E"; }
+
+.fn-map-064-folder_open:before {
+  content: "\E03F"; }
+
+.fn-map-065-insert_drive_file:before {
+  content: "\E040"; }
+
+.fn-map-066-folder:before {
+  content: "\E041"; }
+
+.fn-map-067-add:before {
+  content: "\E042"; }
+
+.fn-map-068-allmenu:before {
+  content: "\E043"; }
+
+.fn-map-069-arrow_forward:before {
+  content: "\E044"; }
+
+.fn-map-070-arrow_top:before {
+  content: "\E045"; }
+
+.fn-map-071-arrow_upward:before {
+  content: "\E046"; }
+
+.fn-map-072-autorenew:before {
+  content: "\E047"; }
+
+.fn-map-073-chartarea:before {
+  content: "\E048"; }
+
+.fn-map-074-chech_box_outline_blaank:before {
+  content: "\E049"; }
+
+.fn-map-075-compare_arrows:before {
+  content: "\E04A"; }
+
+.fn-map-076-delete:before {
+  content: "\E04B"; }
+
+.fn-map-077-duplicate:before {
+  content: "\E04C"; }
+
+.fn-map-078-equalizer:before {
+  content: "\E04D"; }
+
+.fn-map-079-filter:before {
+  content: "\E04E"; }
+
+.fn-map-080-folder_open:before {
+  content: "\E04F"; }
+
+.fn-map-081-folder:before {
+  content: "\E050"; }
+
+.fn-map-082-fullscreen:before {
+  content: "\E051"; }
+
+.fn-map-083-info:before {
+  content: "\E052"; }
+
+.fn-map-084-initialsorting:before {
+  content: "\E053"; }
+
+.fn-map-085-insert_drive_file:before {
+  content: "\E054"; }
+
+.fn-map-086-key:before {
+  content: "\E055"; }
+
+.fn-map-087-menu:before {
+  content: "\E056"; }
+
+.fn-map-088-menufold:before {
+  content: "\E057"; }
+
+.fn-map-089-playlist_add_check:before {
+  content: "\E058"; }
+
+.fn-map-090-reference_master:before {
+  content: "\E059"; }
+
+.fn-map-091-select:before {
+  content: "\E05A"; }
+
+.fn-map-092-star:before {
+  content: "\E05B"; }
+
+.fn-map-093-timeline:before {
+  content: "\E05C"; }
+
+.fn-map-094-unfold:before {
+  content: "\E05D"; }
+
+/*# sourceMappingURL=maps/growthy-font-map.css.map */
